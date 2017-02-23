@@ -4,3 +4,9 @@ c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication35\Console
 c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.csprojResolveAssemblyReference.cache
 c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.exe
 c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.pdb
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.exe.config
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.exe
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.pdb
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.exe
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.pdb
+C:\Users\teszt\Source\Repos\OOTRACE\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.csprojResolveAssemblyReference.cache

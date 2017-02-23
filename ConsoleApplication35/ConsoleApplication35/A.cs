@@ -25,7 +25,7 @@ namespace ConsoleApplication35
             S1();
         }
 
-        private void S3()
+        protected void S3()
         {
             Console.WriteLine("A::S3");
         }

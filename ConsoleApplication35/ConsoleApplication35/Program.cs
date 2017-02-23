@@ -10,7 +10,12 @@ namespace ConsoleApplication35
     {
         static void Main(string[] args)
         {
+            C c = new C();
+            c.S1();
 
+           
+
+            c.S2();
 
         }
     }
